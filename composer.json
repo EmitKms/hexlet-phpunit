@@ -21,7 +21,8 @@
       "Php\\Package\\": "src"
     },
     "files": [
-      "src/Utils.php"
+      "src/Utils.php",
+      "implementations/without.right.php"
     ]
   },
   "autoload-dev": {
